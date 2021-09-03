@@ -60,7 +60,6 @@ social:
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
 ---
 
 I'm currently a senior at Oregon State University. My professional interests include renewable energy, algorithms, and pretty much anything where hardware intersects software. I currently am serving as the head TA for the Fundamentals of Electricity Courses and working as a research assistant in the OSU Energy Systems Lab. I'm currently looking for both full-time and internship opportunities. 
