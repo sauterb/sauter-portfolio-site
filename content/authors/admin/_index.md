@@ -10,8 +10,8 @@ role: Student in Electrical Engineering and Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: OSU Energy Systems Lab
+  url: https://wesrf.engr.oregonstate.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My interests include the intersection of hardware and software, renewable energy, and algorithms.
