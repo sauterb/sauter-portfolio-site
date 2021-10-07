@@ -50,9 +50,10 @@ social:
 
 
 I'm currently a senior at Oregon State University. My professional interests include renewable energy, algorithms, and pretty much anything where hardware intersects software. I currently am serving as the head TA for the Fundamentals of Electricity Courses and working as a research assistant in the OSU Energy Systems Lab. I'm currently looking for both full-time and internship opportunities. 
-<!-- 
+
 {{< icon name="download" pack="fas" >}} Download my software-focused {{< staticref "uploads/Bailey_Sauter_Resume_CS_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
-{{< icon name="download" pack="fas" >}} Download my EE-focused {{< staticref "uploads/Bailey_Sauter_Resume_ECE_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+{{< icon name="download" pack="fas" >}} Download my EE-focused {{< staticref "uploads/Bailey_Sauter_Resume_ECE_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 Outside of engineering, I can be found running, biking or hiking through nature with friends and family. Check out my Strava stats below. 
 
