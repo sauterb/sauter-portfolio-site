@@ -6,7 +6,7 @@ title: Bailey Sauter
 superuser: true
 
 # Role/position/tagline
-role: Student in Electrical Engineering and Computer Science
+role: 4th year B.S. Student in Electrical Engineering and Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -48,23 +48,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/bailey-s-b648401a6/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#   link: uploads/resume.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: true
----
 
 I'm currently a senior at Oregon State University. My professional interests include renewable energy, algorithms, and pretty much anything where hardware intersects software. I currently am serving as the head TA for the Fundamentals of Electricity Courses and working as a research assistant in the OSU Energy Systems Lab. I'm currently looking for both full-time and internship opportunities. 
 
 {{< icon name="download" pack="fas" >}} Download my software-focused {{< staticref "uploads/Bailey_Sauter_Resume_CS_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
 {{< icon name="download" pack="fas" >}} Download my EE-focused {{< staticref "uploads/Bailey_Sauter_Resume_ECE_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 Outside of engineering, I can be found running, biking or hiking through nature with friends and family. Check out my Strava stats below. 
