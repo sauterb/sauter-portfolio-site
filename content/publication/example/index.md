@@ -60,7 +60,6 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 
----
 
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -71,3 +70,6 @@ image:
 # {{% /callout %}}
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+
+---
+
