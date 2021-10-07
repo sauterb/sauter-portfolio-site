@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Control Architectures of Solar-Powered HVAC Systems: A DC-DC Converter’s Perspective"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://visic-tech.com/wp-content/uploads/2021/06/ECCE_2021_thumb.jpg)
+  caption: 'Image credit: [**Unsplash**](https://visic-tech.com/wp-content/uploads/2021/06/ECCE_2021_thumb.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -59,7 +59,7 @@ image:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-# ---
+---
 
 # {{% callout note %}}
 # Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
