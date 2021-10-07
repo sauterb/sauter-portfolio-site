@@ -21,21 +21,8 @@ publication_types: ["1"]
 publication: In ECCE 2021
 publication_short: In ECCE 2021
 
-abstract: Solar-powered energy efficient buildings could tie
-HVAC systems with solar energy and the grid to function together. Such HVAC systems require the grid, batteries, or other
-energy storage to supply or consume the excess power. This
-paper presents four different control architectures for solarpowered HVAC systems, focusing on their DC-DC converters.
-The analysis finds that a higher transformer turns ratio, as
-within the converter, is required on architectures with a fixed
-DC bus as opposed to those with a varying DC bus. On the other
-hand, the varying DC bus architectures require a wider duty
-ratio range, higher input inductance and output capacitance, a
-finding compounded due to larger low-power voltage ripples.
-The results are validated via hardware experimental testing
-from a 500 W solar simulator (power supply), a front-end
-current-fed full-bridge DC-DC converter, and a variable load
-mimicking the HVAC. A table then summarizes the features,
-advantages, and disadvantages of each architecture.
+abstract: Solar-powered energy efficient buildings could tie HVAC systems with solar energy and the grid to function together. Such HVAC systems require the grid, batteries, or other energy storage to supply or consume the excess power. This paper presents four different control architectures for solarpowered HVAC systems, focusing on their DC-DC converters. The analysis finds that a higher transformer turns ratio, as within the converter, is required on architectures with a fixed
+DC bus as opposed to those with a varying DC bus. On the other hand, the varying DC bus architectures require a wider duty ratio range, higher input inductance and output capacitance, a finding compounded due to larger low-power voltage ripples. The results are validated via hardware experimental testing from a 500 W solar simulator (power supply), a front-end current-fed full-bridge DC-DC converter, and a variable load mimicking the HVAC. A table then summarizes the features, advantages, and disadvantages of each architecture.
 
 
 # Summary. An optional shortened abstract.
