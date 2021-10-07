@@ -27,7 +27,7 @@ abstract: "Solar-powered energy efficient buildings could tie HVAC systems with 
 # Summary. An optional shortened abstract.
 summary: "An examination and comparison of various control architectures for solar-powered HVAC systems."
 
-# tags: [Solar, HVAC, DC-DC]
+tags: [Solar, HVAC, DC-DC]
 
 # Display this page in the Featured widget?
 featured: true
