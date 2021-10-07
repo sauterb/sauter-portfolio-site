@@ -58,3 +58,5 @@ I'm currently a senior at Oregon State University. My professional interests inc
 Outside of engineering, I can be found running, biking or hiking through nature with friends and family. Check out my Strava stats below. 
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/40416505/activity-summary/0db4f37234352aa72ee0fa619d1cf1adff275362'></iframe>
+
+---
