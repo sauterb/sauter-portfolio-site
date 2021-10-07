@@ -18,8 +18,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In ECCE 2021"
-publication_short: "In ECCE 2021"
+publication: "In IEEE Energy Conversion Conference and Expo 2021"
+publication_short: "ECCE 2021"
 
 abstract: "Solar-powered energy efficient buildings could tie HVAC systems with solar energy and the grid to function together. Such HVAC systems require the grid, batteries, or other energy storage to supply or consume the excess power. This paper presents four different control architectures for solarpowered HVAC systems, focusing on their DC-DC converters. The analysis finds that a higher transformer turns ratio, as within the converter, is required on architectures with a fixed DC bus as opposed to those with a varying DC bus. On the other hand, the varying DC bus architectures require a wider duty ratio range, higher input inductance and output capacitance, a finding compounded due to larger low-power voltage ripples. The results are validated via hardware experimental testing from a 500 W solar simulator (power supply), a front-end current-fed full-bridge DC-DC converter, and a variable load mimicking the HVAC. A table then summarizes the features, advantages, and disadvantages of each architecture."
 
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://visic-tech.com/wp-content/uploads/2021/06/ECCE_2021_thumb.jpg)'
+  # caption: 'Image credit: [**Unsplash**](https://visic-tech.com/wp-content/uploads/2021/06/ECCE_2021_thumb.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -70,4 +70,4 @@ image:
 # Create your slides in Markdown - click the *Slides* button to check out the example.
 # {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
