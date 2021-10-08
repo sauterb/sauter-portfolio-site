@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -23,21 +23,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+  - title: Software Engineering Intern 
+    company: Tektronix
+    company_url: 'https://www.tek.com/'
+    company_logo: 
+    location: Oregon
+    date_start: '2021-05-24'
+    date_end: '2021-08-13'
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Writing hardware emulation software in C++
+        * Writing Python scripts for motherboard benchmarking
+        * Working closely with a team of multidisclipinary engineers
+        * Implemeneting principles of test-driven development and agile
         
-  - title: Professor of Semiconductor Physics
+  - title: Research Assistant
     company: University X
     company_url: ''
     company_logo: org-x
