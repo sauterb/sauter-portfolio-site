@@ -53,7 +53,7 @@ experience:
         * Researching and implementing max power point tracking algorithms
         * Purchasing lab equipment and maintaining relationships with suppliers 
 
- - title: Head Undergraduate Teaching Assistant
+  - title: Head Undergraduate Teaching Assistant
     company: Oregon State Department of EECS
     company_url: 'https://eecs.oregonstate.edu/'
     company_logo:
@@ -68,7 +68,7 @@ experience:
         * Teaching weekly labs of 20+ multidisciplinary students
         * Grading assignments and proctoring exams for 250+ students
 
- - title: Artificial Intelligence Project Assistant
+  - title: Artificial Intelligence Project Assistant
     company: Oregon State Artificial Intelligence and Robotics Research Lab
     company_url: 'https://eecs.oregonstate.edu/artificial-intelligence-and-robotics'
     company_logo:
@@ -80,6 +80,8 @@ experience:
         
         * Annotating 100+ videos and 1000+ images to train machine learning model
         * Review other students' work for quality control
+
+
 
 design:
   columns: '2'
