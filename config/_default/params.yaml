@@ -40,10 +40,6 @@ contact_links:
     icon_pack: fab
     name: +1 (541) 579-5506
     link:
-  - icon: signal
-    icon_pack: fab
-    name: +1 (541) 579-5506
-    link:
   - icon: strava
     icon_pack: fab
     name: Run or ride with me
