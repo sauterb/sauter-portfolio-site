@@ -49,13 +49,13 @@ social:
   link: https://www.linkedin.com/in/bailey-s-b648401a6/
 ---
 
-"I'm currently a senior at Oregon State University. My professional interests include renewable energy, algorithms, and pretty much anything where hardware intersects software. I currently am serving as the head TA for the Fundamentals of Electricity Courses and working as a research assistant in the OSU Energy Systems Lab. I'm currently looking for both full-time and internship opportunities." 
+I'm currently a senior at Oregon State University. My professional interests include renewable energy, algorithms, and pretty much anything where hardware intersects software. I currently am serving as the head TA for the Fundamentals of Electricity Courses and working as a research assistant in the OSU Energy Systems Lab. I'm currently looking for both full-time and internship opportunities.
 
 {{< icon name="download" pack="fas" >}} Download my CS-focused {{< staticref "uploads/Bailey_Sauter_Resume_CS_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 {{< icon name="download" pack="fas" >}} Download my EE-focused {{< staticref "uploads/Bailey_Sauter_Resume_ECE_Oct2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-"Outside of engineering, I can be found running, biking or hiking through nature with friends and family. Check out my Strava stats below."
+Outside of engineering, I can be found running, biking or hiking through nature with friends and family. Check out my Strava stats below.
 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/40416505/activity-summary/0db4f37234352aa72ee0fa619d1cf1adff275362'></iframe>
 
