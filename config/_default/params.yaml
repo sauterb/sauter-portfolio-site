@@ -36,10 +36,14 @@ directions:
 office_hours:
 appointment_url:
 contact_links:
+  - icon: whatsapp
+    icon_pack: fab
+    name: +1 (541) 579-5506
+    link:
   - icon: strava
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
+    name: Run or ride with me
+    link: 'https://www.strava.com/athletes/40416505'
 
 
 # Site header
