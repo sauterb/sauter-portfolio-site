@@ -19,9 +19,8 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
- - name: CV
-   url: uploads/Bailey_Sauter_Resume_CS_Oct2021
-   weight: 70
+  - name: CV
+    url: uploads/Bailey_Sauter_Resume_CS_Oct2021
+    weight: 70
