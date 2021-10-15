@@ -1,15 +1,15 @@
 ---
-title: Waveform Compression Algorithm
-summary: Algorithm for compressing remote oscilloscope waveforms in order to speed up transmission and reduce bandwidth. Capstone project in partnership with Tektronix. 
+title: Solar Powered HVAC System
+summary: Designed, built, simulated, and debugged a full-bridge DC-DC converter system with MPPT control. Project was tested with a solar simulator in order to determine the efficacy of various control architectures for solar-powered HVAC systems for smart buildings. Second auther on a conference paper about the research in IEEE ECCE 2021.
 tags:
-- Algorithms
+- Hardware
 date: "2021"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://eecs.oregonstate.edu/project-showcase/projects/?id=jKnuK65jLon5XJ7Z"
+external_link: "https://web.engr.oregonstate.edu/~caoy2/files/ECCE2021_NirajaHAVC.pdf"
 
 image:
-  caption: Tektronix Oscilloscope
+  caption: Hardware Testing Setup
   focal_point: Smart
 
 links:

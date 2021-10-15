@@ -1,15 +1,16 @@
 ---
-title: Waveform Compression Algorithm
-summary: Algorithm for compressing remote oscilloscope waveforms in order to speed up transmission and reduce bandwidth. Capstone project in partnership with Tektronix. 
+title: SCARA Drawing Arm
+summary: Wrote the firmware for, designed a custom PCB for, and built a robotic arm with SCARA topology. The arm was capable of drawing letters, pictures, and soundwaves. 
 tags:
 - Software
-date: "2021"
+- Hardware
+date: "2020"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://eecs.oregonstate.edu/project-showcase/projects/?id=jKnuK65jLon5XJ7Z"
+external_link: "https://eecs.oregonstate.edu/project-showcase/projects/?id=8KG0jVHzZHyFBnG4"
 
 image:
-  caption: Tektronix Oscilloscope
+  caption: SCARA Arm
   focal_point: Smart
 
 links:
