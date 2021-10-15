@@ -2,7 +2,7 @@
 title: Waveform Compression Algorithm
 summary: Algorithm for compressing remote oscilloscope waveforms in order to speed up transmission and reduce bandwidth. Capstone project in partnership with Tektronix. 
 tags:
-- Software
+- Algorithms
 date: "2021"
 
 # Optional external URL for project (replaces project detail page).
